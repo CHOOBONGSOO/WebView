@@ -12,7 +12,7 @@ public class WebAppInterface {
     Context context;
 
     /** Instantiate the interface and set the context */
-    WebAppInterface(Context c) {
+    WebAppInterface(Context context) {
         this.context = context;
     }
 
